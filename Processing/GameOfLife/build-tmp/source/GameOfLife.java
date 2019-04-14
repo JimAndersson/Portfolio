@@ -103,7 +103,7 @@ public class CellManager
 {
 	private Cell[][] grid;
 	private int gridWidth, gridHeight;
-	private float cellSpawnAliveChance = 0.5f;
+	private float cellSpawnAliveChance = 0.1f;
 
 	public CellManager(int cellSize)
 	{

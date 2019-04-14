@@ -1,6 +1,6 @@
-#Conway's Game of Life
+# Conway's Game of Life
 
-##The Rules
+## The Rules
 For a space that is 'populated':
 ```bash
 Each cell with one or no neighbours dies, as if by solitude.

@@ -1,5 +1,7 @@
 # Conway's Game of Life
 
+![](https://media.giphy.com/media/du2kel3rEoDiqhpKYa/giphy.gif)
+
 ## The Rules
 For a space that is 'populated':
 ```bash

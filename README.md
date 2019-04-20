@@ -3,7 +3,7 @@ I've uploaded some small projects made in Processing (Java). And below are some 
 
 ## Rest in Pieces
 ![](http://itatake.com/wp-content/uploads/2019/02/RIP-Poster.jpg)
-I was a part of the team as an intern at [Itatake](http://itatake.com) during the developent of this [game](http://itatake.com/rest-in-pieces/).
+I was a part of the team as an Game Programmer intern at [Itatake](http://itatake.com) during the developent of this [game](http://itatake.com/rest-in-pieces/).
 ```bash
 Status: Released
 Platform: iOS/Android

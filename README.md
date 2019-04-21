@@ -1,5 +1,5 @@
 # Welcome to my portfolio!
-I've uploaded some small projects made in Processing (Java). And below are some of the bigger projects that I've been a part of.
+I've uploaded some small projects made in Processing. And below are some of the bigger projects that I've been a part of. Feel free to look around!
 
 ## Rest in Pieces
 ![](http://itatake.com/wp-content/uploads/2019/02/RIP-Poster.jpg)
